@@ -91,3 +91,7 @@ window.MY_SCHOOL_BANK = [
 ---
 
 问天求索，星河一叶。祝每一位申请者都能如愿 🌟
+
+## 🏫 本 Fork 的华中农业大学校情题
+
+本 Fork 已增加 `my-school.js`，包含华中农业大学校史校情、学校文化、代表性科学家及 2024—2026 年科研进展题目。资料来源与校对说明见 [`docs/hzau_sources.md`](docs/hzau_sources.md)。
